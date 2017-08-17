@@ -1,0 +1,27 @@
+#Oktava config
+[section]
+
+# send email (answer)?
+send_flag = 1
+
+# remove mail on from server after recieving
+mail_remove_flag = 1
+
+# mail sending dubug
+mail_debug = 0
+
+# sn host
+snhost = 
+
+# sn creds
+snuser = sber_integration
+snpwd = sber_integration712
+
+# mail.ru creds
+mailhost = imap.mail.ru
+mailuser = 
+mailpass = 
+
+# xml names
+xml_out = from_oktava.xml
+

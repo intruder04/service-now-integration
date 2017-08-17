@@ -1,0 +1,2 @@
+#скачать через ppm
+ppm install MIME::Parser XML::LibXML Net::IMAP::Client REST::Client Mail::Header Net::IMAP::Simple Net::SMTP::SSL
